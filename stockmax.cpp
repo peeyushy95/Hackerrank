@@ -23,8 +23,8 @@ void fast(){
 	#endif
 	
 	#define fi					first
-	#define se						second
-	#define mp						make_pair
+	#define se					second
+	#define mp					make_pair
 	#define pb(x)					push_back(x)
 	#define s(x)					scanf("%d",&x);
 	#define sl(x)					scanf("%lld",&x);
