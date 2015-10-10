@@ -41,6 +41,7 @@ void fast(){
 #define sz 51234
 int a[sz],b[sz];
 
+
 int main(){
 	fast();
 	
