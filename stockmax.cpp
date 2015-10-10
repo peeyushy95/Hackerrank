@@ -22,7 +22,7 @@ void fast(){
 		#define trace3(x,y,z)
 	#endif
 	
-	#define fi						first
+	#define fi					first
 	#define se						second
 	#define mp						make_pair
 	#define pb(x)					push_back(x)
